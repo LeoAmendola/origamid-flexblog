@@ -1,0 +1,15 @@
+/* GLOBAL */
+@import "./global.css";
+
+/* UTILITIES */
+@import "./utilities/color.css";
+
+/* HEADER */
+@import "./header.css";
+
+/* HOME */
+@import "./home.css";
+@import "./products.css";
+@import "./price.css";
+@import "./quality.css";
+@import "./footer.css";
